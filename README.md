@@ -7,12 +7,14 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # Backend, Databases & Auth
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![DrawSQL](https://img.shields.io/badge/DrawSQL-21759B?style=for-the-badge&logo=drawsql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -22,6 +24,7 @@
 ![Stripe](https://img.shields.io/badge/stripe-%235433FF.svg?style=for-the-badge&logo=stripe&logoColor=white)
 # Automation & Maps
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-darkblue?style=for-the-badge&logo=bubble&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
@@ -36,8 +39,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-%23003A70.svg?style=for-the-badge&logo=lets-encrypt&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# Ressources & Technology Scouting
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Daily.dev](https://img.shields.io/badge/Daily.dev-black?style=for-the-badge&logo=dailydev&logoColor=white)
+![roadmap.sh](https://img.shields.io/badge/roadmap.sh-black?style=for-the-badge&logo=roadmap.sh&logoColor=white)
+![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-2C3E50?style=for-the-badge&logo=openclassrooms&logoColor=white)
+![Grafikart](https://img.shields.io/badge/Grafikart-2C3E50?style=for-the-badge&logo=grafikart&logoColor=white)
 # Learning List
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![Lottie](https://img.shields.io/badge/-Lottie-07B1AB?style=flat-square&logo=lottie&logoColor=white)
@@ -52,3 +63,21 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
